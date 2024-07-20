@@ -2,6 +2,9 @@
 
 This is a Streamlit application for performing exploratory data analysis on CSV datasets. 
 
+## Live Application 
+You can view the live application [here](https://eda-web-app-4aa663388421.herokuapp.com/).
+
 ## Features
 
 - **Upload CSV files**: Easily upload your dataset in CSV format.
