@@ -20,7 +20,6 @@ This is a Streamlit application for performing exploratory data analysis on CSV 
 
     ```bash
     git clone https://github.com/mndebelelt/EDA-Web-App.git
-    cd your-repository
     ```
 
 2. Install the required packages:
@@ -32,7 +31,7 @@ This is a Streamlit application for performing exploratory data analysis on CSV 
 3. Run the Streamlit app:
 
     ```bash
-    streamlit run app.py
+    streamlit run edaWebApp.py
     ```
 
 ## Usage
