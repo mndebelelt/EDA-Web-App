@@ -4,15 +4,15 @@ This is a Streamlit application for performing exploratory data analysis on CSV 
 
 ## Features
 
-- Upload CSV files
-- Preview dataset
-- Display data types of each column
-- Show shape of the dataset (rows and columns)
-- Check for null values and visualize them
-- Check for and remove duplicate values
-- Display summary statistics
-- Generate various visualizations (histograms, pairplots, box plots, correlation heatmap)
-- Download the processed dataset
+- **Upload CSV files**: Easily upload your dataset in CSV format.
+- **Preview dataset**: View the first and last few rows of your dataset.
+- **Data types**: Display the data types of each column.
+- **Shape of dataset**: Show the number of rows and columns in the dataset.
+- **Check for null values**: Identify and visualize missing data in the dataset.
+- **Check for duplicates**: Detect and optionally remove duplicate rows.
+- **Summary statistics**: Generate summary statistics for numerical and categorical columns.
+- **Data visualizations**: Create histograms, pairplots, box plots, and a correlation heatmap.
+- **Download processed data**: Download the cleaned and processed dataset.
 
 ## Installation
 
