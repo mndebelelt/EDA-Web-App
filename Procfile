@@ -1,0 +1,1 @@
+web: streamlit run edaWebApp.py --server.port=$PORT
